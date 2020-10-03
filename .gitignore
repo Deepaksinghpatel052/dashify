@@ -1,0 +1,4 @@
+*.pyc
+dashifyenv/
+media/
+node_modules/
